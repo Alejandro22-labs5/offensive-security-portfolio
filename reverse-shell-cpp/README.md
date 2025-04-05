@@ -1,0 +1,5 @@
+# Reverse Shell en C++
+
+Este proyecto contiene una implementación básica de una reverse shell escrita en C++. Está destinada únicamente para fines educativos y de pruebas de laboratorio.
+
+**⚠️ Este código es solo para ambientes controlados y no debe usarse con fines maliciosos.**
